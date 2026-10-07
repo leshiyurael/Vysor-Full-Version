@@ -241,4 +241,4 @@ This repository serves as the official landing page for Vysor. The software is d
 **Get the most recent version of Vysor today!**
 
 ---
-**Last updated:** 2026-10-06 21:29:52 UTC
+**Last updated:** 2026-10-07 01:17:45 UTC
